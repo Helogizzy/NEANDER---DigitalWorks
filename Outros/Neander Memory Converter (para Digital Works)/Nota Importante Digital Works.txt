@@ -1,0 +1,7 @@
+Para alocar a memória do DW faça:
+- Memory Device (Botão ao lado do Tag Device)
+- Tipo RAM
+- Addres Lines e Data Lines em 8 bits
+- Compact on Save = sempre desligado (NMC.jar)
+
+IMPORTANTE: A memória não pode ficar em uma hierarquia menor do que a raiz, pois pode gerar bugs.

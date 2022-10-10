@@ -1,0 +1,20 @@
+NMC (Neander Memory Converter)
+(melhor visualizado com fonte mono-espaçada | passo-fixo)
+
+É um aplicativo que realiza a conversão dos arquivos .MEM do WNEANDER.exe para .MAP do DigitalWorks e vice-e-versa.
+
+Funcionamento:
+- Ao executaro arquivo NMC.jar será solicitado a escolha de um (e somente um) arquivo:
+   - Se o arquivo for .MAP, será convertido para .MEM
+     Caso contrário, o arquivo .MEM será convertido para .MAP
+
+- Uma mensagem de sucesso (ou falha) será apresentada no final da conversão
+
+FAQ: 
+1) Não consigo executar o NMC com dois cliques, o que faço?
+    "Oh Boy". Use terminal/prompt e $: "java -jar NMC.jar" (sem aspas duplas)
+
+Obs.: 
+   O arquivo "NMC-Source-JAVA.zip" contém o código-fonte obtido por decompilação (engenharia reversa) dos aquivos originais. Caso algum aluno queira melhorá-lo, sinta-se a vontade.
+   A decompilação foi feita pelo serviço online www.javadecompilers.com caso tenham interesse, apenas cuidem com os plágios!
+
