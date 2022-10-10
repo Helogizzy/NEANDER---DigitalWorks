@@ -36,6 +36,8 @@ Composto por:
 - Bloqueio.
 - Unidade Lógica Aritmética (ULA).
 
+![ula_fora](./folder/ula_fora.png)
+
 ### Parte interna da ULA
 Composto por:
 - Registrador de Flags.
