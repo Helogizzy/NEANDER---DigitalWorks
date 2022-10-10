@@ -32,7 +32,7 @@ Composto por:
 ## Módulo ULA
 Composto por:
 - Registrador Acumulador (AC).
-- Registrador de Flas (encontra-se dentro da ULA).
+- Registrador de Flags (encontra-se dentro da ULA).
 - Bloqueio.
 - Unidade Lógica Aritmética (ULA).
 
